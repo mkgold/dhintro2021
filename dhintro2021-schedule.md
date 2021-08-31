@@ -20,7 +20,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Jacqueline Wernimont and Elizabeth Losh. 2018. ["Introduction"](http://dhdebates.gc.cuny.edu/debates/text/13) In *Bodies of Information: Intersectional Feminism and Digital Humanities*, edited by Jacqueline Wernimont and Elizabeth Losh. University of Minnesota Press.
 
-* Josephs, Kelly Baker, and Roopika Risam. 2021. “[The Digital Black Atlantic](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/04315759-6622-466b-b23f-0b2a565b4f81#intro).” In *The Digital Black Atlantic*, edited by Kelly Baker Josephs and Roopika Risam. University off Minnesota Press.
+* Josephs, Kelly Baker, and Roopika Risam. 2021. “[The Digital Black Atlantic](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/04315759-6622-466b-b23f-0b2a565b4f81#intro).” In *The Digital Black Atlantic*, edited by Kelly Baker Josephs and Roopika Risam. University of Minnesota Press.
 
 
 ### Sites to explore
