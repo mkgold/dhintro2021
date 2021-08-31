@@ -18,9 +18,9 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Gold, Matthew K., and Lauren F. Klein. 2019. "[A DH That Matters](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0cd11777-7d1b-4f2c-8fdf-4704e827c2c2#intro)" In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
 
-* Josephs, Kelly Baker, and Roopika Risam. In press. “The Digital Black Atlantic.” (draft) (PDF)
+* Jacqueline Wernimont and Elizabeth Losh. 2018. ["Introduction"](http://dhdebates.gc.cuny.edu/debates/text/13) In *Bodies of Information: Intersectional Feminism and Digital Humanities*, edited by Jacqueline Wernimont and Elizabeth Losh. University of Minnesota Press.
 
-* Spiro, Lisa. 2012. ["'This Is Why We Fight': Defining the Values of the Digital Humanities"](http://dhdebates.gc.cuny.edu/debates/text/13) In *Debates in the Digital Humanities*, edited by Matthew K. Gold. University of Minnesota Press.
+* Josephs, Kelly Baker, and Roopika Risam. 2021. “[The Digital Black Atlantic](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/04315759-6622-466b-b23f-0b2a565b4f81#intro).” In *The Digital Black Atlantic*, edited by Kelly Baker Josephs and Roopika Risam. University off Minnesota Press.
 
 
 ### Sites to explore
@@ -123,7 +123,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Johnson, Jessica Marie. 2018. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” *Social Text* 36 (4): 57–79. (PDF)
 
-* Blevins, Cameron. 2016. "[Digital History’s Perpetual Future Tense"](https://dhdebates.gc.cuny.edu/read/untitled/section/4555da10-0561-42c1-9e34-112f0695f523#ch26)." In *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
+* Maria Cotera. 2018. ["Pan Dulce: Breaking Bread with the Past"](https://www.youtube.com/watch?v=pO_hT7TCRfk)
 
 * Daut, Marlene L. 2019."[Haiti @ the Digital Crossroads: Archiving Black Sovereignty](http://smallaxe.net/sxarchipelagos/issue03/daut.html)." *Sx Archipelagos*, no. 3 (July).
 
@@ -133,6 +133,8 @@ Introductions to each other, to the course syllabus, site, and group
 																									
 
 ### Sites to explore
+
+* [Chicana por mi Raza](http://www.chicanapormiraza.org/)
 
 * [Digital Aponte](http://aponte.hosting.nyu.edu/) 	
 
@@ -183,7 +185,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 ### Assignment: PRAXIS Visualization assignment due	
 																								
-																											
+																										
 
 ## Tuesday, October 19 - Open Access Publishing / Minimal Computing / Digital Scholarship
 
@@ -237,27 +239,7 @@ Introductions to each other, to the course syllabus, site, and group
 ### Assignment: PRAXIS text mining assignment due	
 
 																												
-## Tuesday, November 2 - Media, Disinformation, and the 2020 U.S. Presidential Election
-
-* Spies, Samuel. 2020. "[How Misinformation Spreads](https://mediawell.ssrc.org/literature-reviews/how-misinformation-spreads/)." V1.0. Social Science Research Council, MediaWell. July 30, 2020. 
-
-* Donovan, Joan and Brian Friedberg. 2019. "[Source Hacking: Media Manipulation In Practice](https://datasociety.net/library/source-hacking-media-manipulation-in-practice/)." Data & Society. September 4, 2019.
-
-* Tucker, Joshua A., Andrew Guess, Pablo Barberá, Cristian Vaccari, Alexandra Siegel, Sergey Sanovich, Denis Stukal, and Brendan Nyhan. 2018. "[Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature](https://hewlett.org/library/social-media-political-polarization-political-disinformation-review-scientific-literature/)." Hewlitt Foundation. March 19, 2018.
-
-* Ringrose, Jessica. 2018. "[Digital feminist pedagogy and post-truth misogyny]( https://doi.org/10.1080/13562517.2018.1467162)."
-_Teaching in Higher Education__, 23:5, 647-656. 
-
-### Sites to Explore:
-
-* [Data & Society](https://datasociety.net/)
-
-* [AI Now Institute](https://ainowinstitute.org/)
-
-* [SSRC Mediawell](https://mediawell.ssrc.org/)
-  																							
-																												
-## Tuesday, November 9 - Pedagogy
+## Tuesday, November 2 - Pedagogy
 
 ### Readings
 
@@ -277,7 +259,7 @@ _Teaching in Higher Education__, 23:5, 647-656.
 
 * [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)	
 
-## Tuesday, November 16 - Grant Writing Workshop
+## Tuesday, November 9 - Grant Writing Workshop
 
 * Brennan, Sheila. 2020. "[Planning your next DHAG: Idea, Audience, Innovation, Context](https://www.neh.gov/blog/planning-your-next-dhag-idea-audience-innovation-context)." National Endowment for the Humanities. 17 September 2020. 
 
@@ -297,9 +279,10 @@ _Teaching in Higher Education__, 23:5, 647-656.
 
 * Model student proposals (PDF)
 
-## Tuesday, November 23
+## Tuesday, November 9 - Open Topic
 
-Open Topic
+## Tuesday, November 23 - Open Topic
+
 
 ### Assignment: FINAL PROPOSALS DUE																										
 																												
