@@ -157,7 +157,7 @@ Introductions to each other, to the course syllabus, site, and group
 ### Assignment: PRAXIS Mapping assignment due		
 
 																											
-## Tuesday, October 12 - Design / Infrastructure
+## Tuesday, October 19 - Design / Infrastructure
 
 ### Readings		
 
@@ -187,7 +187,7 @@ Introductions to each other, to the course syllabus, site, and group
 																								
 																										
 
-## Tuesday, October 19 - Open Access Publishing / Minimal Computing / Digital Scholarship
+## Tuesday, October 26 - Open Access Publishing / Minimal Computing / Digital Scholarship
 
 ### Readings
 
@@ -216,7 +216,7 @@ Introductions to each other, to the course syllabus, site, and group
 * [Scalar](https://scalar.me/anvc/scalar/)
 																					
 																												
-## Tuesday, October 26 - Text
+## Tuesday, November 2 - Text
 
 ### Readings
 
@@ -239,7 +239,7 @@ Introductions to each other, to the course syllabus, site, and group
 ### Assignment: PRAXIS text mining assignment due	
 
 																												
-## Tuesday, November 2 - Pedagogy
+## Tuesday, November 9 - Pedagogy
 
 ### Readings
 
@@ -259,7 +259,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)	
 
-## Tuesday, November 9 - Grant Writing Workshop
+## Tuesday, November 16 - Grant Writing Workshop
 
 * Brennan, Sheila. 2020. "[Planning your next DHAG: Idea, Audience, Innovation, Context](https://www.neh.gov/blog/planning-your-next-dhag-idea-audience-innovation-context)." National Endowment for the Humanities. 17 September 2020. 
 
@@ -279,10 +279,8 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Model student proposals (PDF)
 
-## Tuesday, November 9 - Open Topic
 
 ## Tuesday, November 23 - Open Topic
-
 
 ### Assignment: FINAL PROPOSALS DUE																										
 																												
