@@ -18,7 +18,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Gold, Matthew K., and Lauren F. Klein. 2019. "[A DH That Matters](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0cd11777-7d1b-4f2c-8fdf-4704e827c2c2#intro)" In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
 
-* Jacqueline Wernimont and Elizabeth Losh. 2018. ["Introduction"](http://dhdebates.gc.cuny.edu/debates/text/13) In *Bodies of Information: Intersectional Feminism and Digital Humanities*, edited by Jacqueline Wernimont and Elizabeth Losh. University of Minnesota Press.
+* Jacqueline Wernimont and Elizabeth Losh. 2018. ["Introduction"](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/466311ae-d3dc-4d50-b616-8b5d1555d231#intro) In *Bodies of Information: Intersectional Feminism and Digital Humanities*, edited by Jacqueline Wernimont and Elizabeth Losh. University of Minnesota Press.
 
 * Josephs, Kelly Baker, and Roopika Risam. 2021. “[The Digital Black Atlantic](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/04315759-6622-466b-b23f-0b2a565b4f81#intro).” In *The Digital Black Atlantic*, edited by Kelly Baker Josephs and Roopika Risam. University of Minnesota Press.
 
