@@ -125,7 +125,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Maria Cotera. 2018. ["Pan Dulce: Breaking Bread with the Past"](https://www.youtube.com/watch?v=pO_hT7TCRfk)
 
-* Daut, Marlene L. 2019."[Haiti @ the Digital Crossroads: Archiving Black Sovereignty](http://smallaxe.net/sxarchipelagos/issue03/daut.html)." *Sx Archipelagos*, no. 3 (July).
+* Christen, K., Anderson, J. Toward slow archives. Arch Sci 19, 87–116 (2019). https://doi.org/10.1007/s10502-019-09307-x (PDF)
 
 * Freelon, Deen, Charlton D. McIlwain, and Meredith D. Clark. 2016. “[Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice](https://cmsimpact.org/wp-content/uploads/2016/03/beyond**the**hashtags**2016.pdf).” Center for Media and Social Impact. February 29, 2016.
 
@@ -136,7 +136,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [Chicana por mi Raza](http://www.chicanapormiraza.org/)
 
-* [Digital Aponte](http://aponte.hosting.nyu.edu/) 	
+* [Mukurtu](https://mukurtu.org/)
 
 * [CUNY Digital History Archive](https://cdha.cuny.edu/) 	
 
@@ -145,8 +145,6 @@ Introductions to each other, to the course syllabus, site, and group
 * [Documenting the Now](https://www.docnow.io/)	
 
 * [Omeka](https://omeka.org/) 
-
-* [Mukurtu](https://mukurtu.org/)
 
 * [TK Knowledge Labels](https://localcontexts.org/tk-labels/)
 
