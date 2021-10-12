@@ -129,7 +129,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Freelon, Deen, Charlton D. McIlwain, and Meredith D. Clark. 2016. “[Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice](https://cmsimpact.org/wp-content/uploads/2016/03/beyond**the**hashtags**2016.pdf).” Center for Media and Social Impact. February 29, 2016.
 
-* Brier, Stephen, and Joshua Brown. 2011. “[The September 11 Digital Archive: Saving the Histories of September 11, 2001.](https://academicworks.cuny.edu/gc**pubs/205/)” *Radical History Review* 2011 (111): 101–9.																							
+* Brier, Stephen, and Joshua Brown. 2011. “[The September 11 Digital Archive: Saving the Histories of September 11, 2001.](https://academicworks.cuny.edu/gc_pubs/205/)” *Radical History Review* 2011 (111): 101–9.																							
 																									
 
 ### Sites to explore
