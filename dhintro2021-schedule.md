@@ -181,8 +181,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 * [Surfacing](http://www.surfacing.in/)
 
-### Assignment: PRAXIS Visualization assignment due	
-																								
+																							
 																										
 
 ## Tuesday, October 26 - Open Access Publishing / Minimal Computing / Digital Scholarship
@@ -225,18 +224,16 @@ Introductions to each other, to the course syllabus, site, and group
 * Mandel, Laura. 2019. "[Gender and Cultural Analytics: Finding or Making Stereotypes?](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5d9c1b63-7b60-42dd-8cda-bde837f638f4#ch01)" In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
 
 * Witmore, Michael. 2012. "[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a#p4b3)" In *Debates in the Digital Humanities*, edited by Matthew K. Gold. University of Minnesota Press.																																																
-
 * So, Richard Jean and Edwin Roland. 2020. “Race and Distant Reading.” *PMLA*  135.1: 59–73. (PDF)	
+
 
 ### Sites to explore
 
 * [The Data Sitters Club](https://datasittersclub.github.io/site/dsc1/)
 
 * Amanda Henrichs, [“Allusions in the Age of the Digital: four ways of looking at a corpus"](https://wwp.northeastern.edu/context/#henrichs.allusions.xml)																							
-
-### Assignment: PRAXIS text mining assignment due	
-
-																												
+### Assignment: PRAXIS Visualization assignment due
+																								
 ## Tuesday, November 9 - Pedagogy
 
 ### Readings
@@ -256,6 +253,9 @@ Introductions to each other, to the course syllabus, site, and group
 * online DH syllabi (browse the [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/search/type/Syllabus), [Humanities Commons](https://hcommons.org/deposits/?facets[genre_facet][]=Syllabus), and the [Open Syllabus Project](https://opensyllabus.org/) )																								
 
 * [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)	
+
+### Assignment: PRAXIS text mining assignment due
+
 
 ## Tuesday, November 16 - Grant Writing Workshop
 
