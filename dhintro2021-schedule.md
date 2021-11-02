@@ -230,7 +230,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 ### Sites to explore
 
-* [The Data Sitters Club](https://datasittersclub.github.io/site/dsc1/)
+* [The Data Sitters Club](https://datasittersclub.github.io/site/)
 
 * Amanda Henrichs, [“Allusions in the Age of the Digital: four ways of looking at a corpus"](https://wwp.northeastern.edu/context/#henrichs.allusions.xml)																							
 ### Assignment: PRAXIS Visualization assignment due
