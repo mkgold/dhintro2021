@@ -160,3 +160,14 @@ Students who participate in this class with their camera on or use a profile ima
 All texts for this course will be provided to you via links to open educational resources on the web or PDFs available in our course group. 
 
 Please check out our course schedule for our list of weekly assignments and readings. Readings marked (PDF) will be made available via the Files section of our course group.
+
+**Dataset Resources**
+* [Finding Data Guide from the GC Library](https://libguides.gc.cuny.edu/findingdata)
+* [NYC Open Data](https://opendata.cityofnewyork.us/)
+* [Data.gov](https://www.data.gov/open-gov/)
+* [Datasets for Digital Research](https://lib.msu.edu/dsc/datasets/) (MSU Libraries)
+* [Open Data Repositories](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/)
+* [CDC Data](https://open.cdc.gov/data.html)
+* [Datasets for Cleaning Practice](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
+* [National Library of Medicine Datasets](https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html)
+
