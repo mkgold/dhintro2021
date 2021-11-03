@@ -241,11 +241,11 @@ Introductions to each other, to the course syllabus, site, and group
 
 * Cordell, Ryan. 2016.  "[How Not to Teach Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled/section/31326090-9c70-4c0a-b2b7-74361582977e#ch36)" In *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
 
-* Paravisini-Gebert, Lizabeth. 2019. "[Review of Puerto Rico Syllabus: Essential Tools for Critical Thinking about the Puerto Rican Debt Crisis](http://smallaxe.net/sxarchipelagos/issue03/paravisini.html)" *Sx Archipelagos*, no. 3 (July).																									
+* Paravisini-Gebert, Lizabeth. 2019. "[Review of Puerto Rico Syllabus: Essential Tools for Critical Thinking about the Puerto Rican Debt Crisis](http://smallaxe.net/sxarchipelagos/issue03/paravisini.html)" *Sx Archipelagos*, no. 3 (July).											
 
 * Risam, Roopika. 2019. “Postcolonial Digital Pedagogy.” In *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*, 89–114. Northwestern University Press. (PDF)		
 
-* Effinger-Crichlow, Marta. 2019. "[A Pedagogical Search for Home and Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4a11a299-5008-450a-9979-b49727319114#ch40)" In *Debates in the Digital Humanities 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.																																															
+* [Digital Memory Project Reviews](https://cuny.manifoldapp.org/projects/digital-memory-project-reviews) (browse project in advance of class presentation)
 
 * Frost Davis, Rebecca; Gold, Matthew K.; Harris, Kathleen; Sayers, Jentery, Eds. 2020. [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/). Modern Language Association. - explore 4-5 keywords																					
 
