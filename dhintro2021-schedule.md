@@ -260,6 +260,8 @@ Introductions to each other, to the course syllabus, site, and group
 
 ## Tuesday, November 16 - Grant Writing Workshop
 
+* Breenan, Sheila. 2016. "[Public, First](https://dhdebates.gc.cuny.edu/read/untitled/section/11b9805a-a8e0-42e3-9a1c-fad46e4b78e5#ch32). In *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press.
+
 * Brennan, Sheila. 2020. "[Planning your next DHAG: Idea, Audience, Innovation, Context](https://www.neh.gov/blog/planning-your-next-dhag-idea-audience-innovation-context)." National Endowment for the Humanities. 17 September 2020. 
 
 * Alpert-Abrams, Hannah. 2020. "[Planning Your Next DHAG 2: Activities, People, & Costs for Doing the Work](https://www.neh.gov/blog/planning-your-next-dhag-2-activities-people-costs-doing-work)." National Endowment for the Humanities. 17 September 2018.
@@ -281,7 +283,7 @@ Introductions to each other, to the course syllabus, site, and group
 
 ## Tuesday, November 23 - Open Topic
 
-### Assignment: FINAL PROPOSALS DUE																										
+### Assignment: PROPOSALS FOR FINAL PROJECT DUE																										
 																												
 ## Tuesday, November 30 - Student Presentations	
 
