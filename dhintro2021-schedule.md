@@ -281,10 +281,18 @@ Introductions to each other, to the course syllabus, site, and group
 * Model student proposals (PDF)
 
 
-## Tuesday, November 23 - Open Topic
+## Tuesday, November 23 - Open Topics: Impacts of DH Projects; Sound Studies; Quantitative Analysis of Images; DH and Current Events
+
+* on Impact: [coming soon]
+
+* on Sound Studies: Mary Caton Lingold, Darren Mueller, Whitney Trettien, 2018. "Introduction." In *Digital Sound Studies*, Mary Caton Lingold, Darren Mueller, Whitney Trettien. In *Digital Sound Studies*. Duke University Press, 2018. (PDF)
+
+* on Quantitative Analysis of Images: Taylor Arnold, Lauren Tilton, "Distant Viewing: Analyzing Large Visual Corpora." *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019, Pages i3–i16, https://doi.org/10.1093/llc/fqz013
+
+* on DH and current events: Wendy Hui Kyong Chun, "Beyond Verification: Algorithmic Authenticity and Polarizing Trust." *Items.* Social Science Research Council. 18 May 2021. https://items.ssrc.org/beyond-disinformation/beyond-verification-algorithmic-authenticity-and-polarizing-trust/
 
 ### Assignment: PROPOSALS FOR FINAL PROJECT DUE																										
-																												
+
 ## Tuesday, November 30 - Student Presentations	
 
 ## Tuesday, December 7 - Student Presentations																										
